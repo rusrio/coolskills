@@ -23,3 +23,4 @@ skills/
 ## Current Skills
 
 - `strategic-naming`: evaluates, explores, refines, and replaces names for products, brands, apps, and projects
+- `hytale-modding`: creates, modifies, and debugs Hytale Java plugins, ECS systems, commands, and asset-pack content

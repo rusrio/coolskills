@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hytale Modding"
+  short_description: "Java plugin workflow for Hytale mods"
+  default_prompt: "Use $hytale-modding to create, modify, or debug a Hytale Java server plugin or asset-pack mod."

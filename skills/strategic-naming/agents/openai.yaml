@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategic Naming"
+  short_description: "Naming strategy for products and brands"
+  default_prompt: "Use $strategic-naming to explore, evaluate, refine, or replace names for a product, startup, app, tool, brand, or creative venture."
